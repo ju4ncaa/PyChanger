@@ -1,6 +1,6 @@
 # PyChanger
 
-PyChanger es una herramienta simple escrita en Python para realizar el cambio de dirección MAC en interfaces de red inalámbrica utilizando la herramienta `macchanger`.
+Script en Python para realizar el cambio de dirección MAC en interfaces de red inalámbricas utilizando la herramienta `macchanger`.
 
 ## Requisitos previos
 
