@@ -121,7 +121,7 @@ def main():
 #Programa principal
 if __name__ == "__main__":
     if system() == "Windows":
-        print(f"\n{RED}[!]{RESET} El script no soporta el sistema operativo Windows\n")
+        print(f"\n{RED}[!]{RESET} El script no soporta el sistema operativo Windows")
     else:
         try:
             main()
