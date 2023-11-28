@@ -110,10 +110,10 @@ def mac_spoofing():
 
 #Funcion principal
 def main():
-    verify_root()
     subprocess.call("clear", shell=True)
-    banner()
+    verify_root()
     check_macchanger()
+    banner()
     select_interface()
     mac_spoofing()
 
