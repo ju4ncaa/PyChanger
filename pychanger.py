@@ -39,7 +39,10 @@ def check_macchanger():
 def select_interface():
     global interface
     print(f"\n\n{Colors.YELLOW}[*]{Colors.RESET} Selecciona una interfaz de red inalámbrica:\n")
-    subprocess.call("iw dev | grep Interface | awk '{print $2}'", shell=True)
+    interfaces = subprocess.check_output("iw dev | grep Interface | awk '{print $2}'", shell=True, text=True).split('\n')
+    for counter, interface in enumerate(interfaces, start=1):
+        if interface:
+            print(f"{Colors.CYAN}{counter}.{Colors.RESET} {interface}")
     interface = input("\n> ").lower()
     if subprocess.call(f"ifconfig {interface} > /dev/null 2>&1", shell=True) !=0:
         print(f"\n{Colors.RED}[!]{Colors.RESET} La interfaz {Colors.YELLOW}{interface}{Colors.RESET} no se ha encontrado")
