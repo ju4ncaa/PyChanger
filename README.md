@@ -31,7 +31,7 @@ sudo ./pychanger.py
 
 Ejecutar el script con permisos de superusuario (root)
 
-![imagen](https://github.com/0xJuaNc4/PyChanger/assets/130152767/0e1f16b1-1995-4786-8254-965079e2a510)
+![imagen](https://github.com/0xJuaNc4/PyChanger/assets/130152767/62cda854-b6e9-4b7c-8411-d2f19c7063fe)
 
 Ingresar el nombre de la interfaz que se dea configurar
 
