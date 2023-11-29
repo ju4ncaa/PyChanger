@@ -27,16 +27,16 @@ sudo ./pychanger.py
 
 Ejecutar el script con permisos de superusuario (root)
 
-![image](https://github.com/0xJuaNc4/PyChanger/assets/130152767/0dc8a4ed-764a-472a-a305-fbc2e91a1ead)
+![imagen](https://github.com/0xJuaNc4/PyChanger/assets/130152767/0e1f16b1-1995-4786-8254-965079e2a510)
 
 Ingresar el nombre de la interfaz que se dea configurar
 
-![image](https://github.com/0xJuaNc4/PyChanger/assets/130152767/660a0b2e-735a-4548-a8ff-4a376672197b)
+![imagen](https://github.com/0xJuaNc4/PyChanger/assets/130152767/6024b6c4-f38e-4c3c-9089-8fde772e1df2)
 
 Seleccionar la opción deseada segun la acción deseada a realizar
 
-![image](https://github.com/0xJuaNc4/PyChanger/assets/130152767/796a6f5f-1fe0-4af3-a9a5-d3d3b5b5202b)
+![imagen](https://github.com/0xJuaNc4/PyChanger/assets/130152767/db0f5e6d-5715-464e-a40d-18b055ba459a)
 
 Estableciendo una dirección MAC aleatoria
 
-![image](https://github.com/0xJuaNc4/PyChanger/assets/130152767/d607a9ff-4b7f-497e-8690-2f7f7bb1bf13)
+![imagen](https://github.com/0xJuaNc4/PyChanger/assets/130152767/8a1f0dd3-c823-48d5-beb9-459acc1ba1cf)
