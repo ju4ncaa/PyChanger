@@ -8,7 +8,7 @@ Script en Python para realizar el cambio de dirección MAC en interfaces de red 
 
 ## Requisitos previos
 
-- Python 3.x
+- Sistema operativo Linux o MAC
 - Herramienta `macchanger` instalada
 
 ## Uso
