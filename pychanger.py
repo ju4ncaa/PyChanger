@@ -7,14 +7,13 @@ import re
 from platform import system
 from time import sleep
 from sys import exit
-from colorama import Fore
 
 # Paleta de colores
-GREEN = Fore.GREEN
-RED = Fore.RED
-CYAN = Fore.CYAN
-YELLOW = Fore.YELLOW
-RESET = Fore.RESET
+GREEN = "\033[92m"
+RED = "\033[91m"
+CYAN = "\033[96m"
+YELLOW = "\033[93m"
+RESET = "\033[0m"
 
 #Banner
 def banner():
