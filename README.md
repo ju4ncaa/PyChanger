@@ -15,7 +15,7 @@ Script en Python para realizar el cambio de dirección MAC en interfaces de red 
 
 1. Clona el repositorio:
 ```
-git clone https://github.com/0xJuaNc4/PyChanger.git
+git clone https://github.com/0xJuaNc4/PyChanger
 ```
 2. Navega al directorio del proyecto:
 ```
