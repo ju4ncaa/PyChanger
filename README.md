@@ -4,7 +4,7 @@
   <img src="https://github.com/0xJuaNc4/BackDropOff/assets/130152767/39185e06-7daf-4942-81f1-f280cec91b19" width="300px">
 </div>
 
-Script en Python para realizar el cambio de dirección MAC en interfaces de red inalámbricas utilizando la herramienta `macchanger`.
+Script en Python para realizar el cambio de dirección MAC en interfaces de red inalámbricas
 
 ## Requisitos previos
 
