@@ -8,7 +8,7 @@ Python script for MAC address change on wireless network interfaces
 
 ## Prerequisites
 
-- Linux or MAC operating system
+- Linux or macOS operating system
 - Installed `macchanger` tool
 
 ## Uso
